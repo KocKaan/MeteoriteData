@@ -1,5 +1,6 @@
+# Metorite Data
 
-  This class is the program which finds the fallen stars(meteorites) The
+  This program gets Meteorite data from a source and displays it to users. The
   program is interactive When the program is executed the name of the input
   file containing the list of all the fallen meteorites is provided as the
   program's single line command line argument. The data in this file serves as
